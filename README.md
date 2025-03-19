@@ -21,8 +21,8 @@ Node.js es un entorno de ejecución para JavaScript que permite crear aplicacion
 ## 📦 Instalación
 
 ```sh
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Andycrc/apv_backend_deploy.git
+cd apv_backend_deploy
 npm install
 ```
 
