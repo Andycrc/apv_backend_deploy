@@ -9,7 +9,7 @@
 
 # Node.js Backend
 
-Node.js es un entorno de ejecución para JavaScript que permite crear aplicaciones backend rápidas, escalables y eficientes. Este backend maneja autenticación, conexión con base de datos y envío de correos electrónicos.
+Esta es una API desarrollada con Node.js y Express, que implementa JWT para la autenticación. Gestiona la conexión con la base de datos y el envío de correos electrónicos.
 
 ## 📌 Requisitos
 
